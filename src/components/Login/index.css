@@ -1,0 +1,27 @@
+.login-card {
+  background-color: #ffffff;
+  min-height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.login-heading {
+  font-family: 'Roboto';
+  color: black;
+  font-weight: bold;
+  font-size: 35px;
+}
+
+.login-button {
+  min-height: 28px;
+  min-width: 70px;
+  max-height: 30px;
+  max-width: 210px;
+  font-family: 'Roboto';
+  color: black;
+  font-weight: 500;
+  font-size: 14px;
+}

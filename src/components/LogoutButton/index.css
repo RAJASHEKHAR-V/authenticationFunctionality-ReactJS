@@ -1,0 +1,10 @@
+.logout-button {
+  min-height: 28px;
+  min-width: 70px;
+  max-height: 30px;
+  max-width: 110px;
+  font-family: 'Roboto';
+  color: black;
+  font-weight: 500;
+  font-size: 14px;
+}
